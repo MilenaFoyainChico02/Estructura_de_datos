@@ -1,0 +1,15 @@
+C:\Users\Sofia\Documents\Estructura de datos\tarea\bin\Debug\net9.0\tarea.exe
+C:\Users\Sofia\Documents\Estructura de datos\tarea\bin\Debug\net9.0\tarea.deps.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\bin\Debug\net9.0\tarea.runtimeconfig.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\bin\Debug\net9.0\tarea.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\bin\Debug\net9.0\tarea.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.AssemblyInfoInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.AssemblyInfo.cs
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.sourcelink.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\refint\tarea.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\tarea.genruntimeconfig.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\obj\Debug\net9.0\ref\tarea.dll
