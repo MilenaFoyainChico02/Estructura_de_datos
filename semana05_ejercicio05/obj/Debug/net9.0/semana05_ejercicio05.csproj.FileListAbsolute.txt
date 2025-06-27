@@ -1,0 +1,15 @@
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\bin\Debug\net9.0\semana05_ejercicio05.exe
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\bin\Debug\net9.0\semana05_ejercicio05.deps.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\bin\Debug\net9.0\semana05_ejercicio05.runtimeconfig.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\bin\Debug\net9.0\semana05_ejercicio05.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\bin\Debug\net9.0\semana05_ejercicio05.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.AssemblyInfoInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.AssemblyInfo.cs
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.sourcelink.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\refint\semana05_ejercicio05.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\semana05_ejercicio05.genruntimeconfig.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\semana05_ejercicio05\obj\Debug\net9.0\ref\semana05_ejercicio05.dll
