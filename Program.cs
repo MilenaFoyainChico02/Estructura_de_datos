@@ -59,7 +59,7 @@
     // Clase principal del programa
     class Program
     {
-        static void Main(string[] args)
+        //static void Main(string[] args)
         {
             // Crear un objeto Circulo con radio 5
             Circulo miCirculo = new Circulo(5);
