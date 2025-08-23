@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07\\semana_07.csproj",
+      "projectUniqueName": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07_ejercicio1\\semana_07.csproj",
       "projectName": "semana_07",
-      "projectPath": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07\\semana_07.csproj",
+      "projectPath": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07_ejercicio1\\semana_07.csproj",
       "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07\\obj\\",
+      "outputPath": "C:\\Users\\Sofia\\Documents\\Estructura de datos\\tarea\\semana_07_ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
