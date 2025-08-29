@@ -1,0 +1,15 @@
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\bin\Debug\net9.0\Semana_11.exe
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\bin\Debug\net9.0\Semana_11.deps.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\bin\Debug\net9.0\Semana_11.runtimeconfig.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\bin\Debug\net9.0\Semana_11.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\bin\Debug\net9.0\Semana_11.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.AssemblyInfoInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.AssemblyInfo.cs
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.sourcelink.json
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\refint\Semana_11.dll
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.pdb
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\Semana_11.genruntimeconfig.cache
+C:\Users\Sofia\Documents\Estructura de datos\tarea\Semana_11\obj\Debug\net9.0\ref\Semana_11.dll
